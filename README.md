@@ -6,7 +6,7 @@
 - Actively surging my way into the tech industry to become a full-time web developer 🌊
 - Currently working on [gattaGo](https://github.com/kimcangho/gattaGo-client), a passion project of mine (it's a dragonboat team builder!) 🐲
 - Extra information and contact over at my [LinkedIn](https://www.linkedin.com/in/kentkcho/) 📫
-- Diving into a new framework (Next.js) for further learning 📚
+- Set up a coffee chat through [Calendly](https://calendly.com/ho-kimcang) ☕
 
 ### Skills 
 
