@@ -1,12 +1,9 @@
 # Hi, Kent here! 👋
 
-## I am a mechanical engineer turned software engineer. I'm all about honing my craft and bringing ideas to life! 🛠
-
 ### About me 
-- Actively surging my way into the tech industry to become a full-time web developer 🌊
-- Currently working on [gattaGo](https://github.com/kimcangho/gattaGo-client), a passion project of mine (it's a dragonboat team builder!) 🐲
-- Extra information and contact over at my [LinkedIn](https://www.linkedin.com/in/kentkcho/) 📫
-- Set up a coffee chat through [Calendly](https://calendly.com/ho-kimcang) ☕
+I am a mechanical engineer turned software engineer, and I'm all about honing a craft, achieving proficiency in said craft, and wielding it to tackle large obstacles and solve complex problems!
+
+When I'm not behind the keyboard, you can find me on the saddle of a road bike. I've only just started cycling as of this summer and it's been a wild ride! Also got a century ride under my belt, too! If not on a bike, you might find me inside my home gym (assembled during the pandemic for an amount too high for me to publicly dislocse) or pitching in as a volunteer at a tech event!
 
 ### Skills 
 
