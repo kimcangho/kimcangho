@@ -37,12 +37,12 @@ When I'm not at the keyboard, find me cycling around, picking up weights and put
     </tr>
     <tr valign="top">
         <td width="50%" align="center">
-            <a href="https://github.com/BboxDevs/techcave-be" target="_blank">
+            <a href="https://github.com/kimcangho/gattaGo-client" target="_blank">
                 <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
             </a> 
         </td>
         <td width="50%" align="center">
-            <a href="https://github.com/jekiquin/ecoverse2-client" target="_blank">
+            <a href="https://github.com/kimcangho/squiggled-client" target="_blank">
                 <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
             </a>
         </td>
