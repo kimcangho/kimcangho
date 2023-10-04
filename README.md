@@ -41,7 +41,8 @@ When I'm not at the keyboard, find me cycling around, picking up weights and put
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ## 📊 GitHub Stats:
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kimcangho&theme=slateorange)
 <div align=center>
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=kimcangho&theme=slateorange" alt="GitHub Streak" />
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kimcangho&theme=slateorange" alt="Github Activity" />
 </div>
+
