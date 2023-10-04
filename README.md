@@ -9,9 +9,9 @@
 I am a mechanical engineer turned software engineer, and I'm all about honing a craft, achieving proficiency in said craft, and wielding it to tackle large obstacles and solve complex problems!
 
 <div align="center">
-    <img src="/bicycle-sunrise.jp2" alt="Bicycle Sunrise" height="300px" />
-    <img src="/iceland-camper-van.jp2" alt="Maui Camper Van" height="300px" />
-    <img src="/maui-camper-van.jp2" alt="Camper Van" height="300px" />
+    <img src="bicycle-sunrise.jp2" alt="Bicycle Sunrise" height="300px" />
+    <img src="iceland-camper-van.jp2" alt="Maui Camper Van" height="300px" />
+    <img src="maui-camper-van.jp2" alt="Camper Van" height="300px" />
 </div>
 
 When I'm not at the keyboard, find me cycling around 🚴‍♂️💨, picking up weights and putting them down 🏋, or unleashing boardgame chaos 🖼🎲! If you still can't find me, I may be doing "field research" inside a camper van in the hopes of one day building my own 🏕🚐!
