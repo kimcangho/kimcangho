@@ -77,7 +77,7 @@ When I'm not at the keyboard, find me cycling around, picking up weights and put
     </tr>
 </table>
 
-### Skills 
+<h2 align="center">🧰 Skills</h2>
 
 #### I have working knowledge in:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -101,9 +101,9 @@ When I'm not at the keyboard, find me cycling around, picking up weights and put
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-## 📊 GitHub Stats:
+<h2 align="center">📊 Github Stats</h2>
 <div align=center>
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=kimcangho&theme=slateorange" alt="Github Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=kimcangho&theme=slateorange&hide_border=true" alt="Github Streak" />
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kimcangho&theme=slateorange" alt="Github Activity" />
 </div>
 
