@@ -43,6 +43,6 @@ When I'm not at the keyboard, find me cycling around, picking up weights and put
 ## 📊 GitHub Stats:
 <div align=center>
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kimcangho&theme=slateorange&hide_border=false&include_all_commits=true&count_private=true" alt="Github Stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kimcangho&theme=slateorange&hide_border=false" alt="Github Streak" />
+    <img src="https://streak-stats.demolab.com/?user=kimcangho&theme=slateorange&hide_border=false" alt="Github Streak" />
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kimcangho&theme=slateorange" alt="Github Activity" />
 </div>
