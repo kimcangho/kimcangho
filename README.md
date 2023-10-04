@@ -3,7 +3,7 @@
 ### About me 
 I am a mechanical engineer turned software engineer, and I'm all about honing a craft, achieving proficiency in said craft, and wielding it to tackle large obstacles and solve complex problems!
 
-When I'm not behind the keyboard, you can find me on the saddle of a road bike. I've only just started cycling as of this summer and it's been a wild ride! Also got a century ride under my belt, too! If not on a bike, you might find me inside my home gym (assembled during the pandemic for an amount too high for me to publicly dislocse) or pitching in as a volunteer at a tech event!
+When I'm not behind the keyboard, you can find me on the saddle of a road bike. I've only just started cycling as of this summer and it's been a wild ride! Also got a century ride under my belt, too! If not on a bike, you might find me inside my home gym (assembled during the pandemic for an amount too high for me to publicly disclose) or pitching in as a volunteer at a tech event!
 
 ### Skills 
 
