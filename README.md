@@ -1,4 +1,4 @@
-<h1 align="center"> Hi, Kent here! 🌊</h1>
+<h1 align="center">🌊 Hi, Kent here!</h1>
 <p align="center">
   <a style="text-decoration: none;" target="_blank" href="https://www.linkedin.com/in/kentkcho/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -15,6 +15,67 @@ I am a mechanical engineer turned software engineer, and I'm all about honing a 
 </div>
 
 When I'm not at the keyboard, find me cycling around, picking up weights and putting them down, or unleashing boardgame chaos! If you still can't find me, I may be doing "field research" inside a camper van in the hopes of one day building my own!
+
+<h2 align="center">🏗 Projects</h2>
+
+<table bordercolor="#66b2b2" width="100%">
+    <tr valign="top">
+        <td width="50%" align="center">
+            <h3>gattaGo</h3>
+        </td>
+        <td width="50%" align="center">
+            <h3>Squiggled</h3>
+        </td>
+    </tr>
+    <tr valign="center">
+        <td width="50%" align="center">
+            <img src="gattago.gif"/>
+        </td>
+        <td width="50%" align="center">
+            <img src="squiggled-screenshot.png"/>
+        </td>
+    </tr>
+    <tr valign="top">
+        <td width="50%" align="center">
+            <a href="https://github.com/BboxDevs/techcave-be" target="_blank">
+                <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
+            </a> 
+        </td>
+        <td width="50%" align="center">
+            <a href="https://github.com/jekiquin/ecoverse2-client" target="_blank">
+                <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
+            </a>
+        </td>
+    </tr>
+    <tr valign="top">
+        <td width="50%">
+            <p>
+                <strong>Stack:</strong> Typescript, React, TailwindCSS, Express, Prisma, MySQL
+            </p>
+            <p>
+                <strong>Other Libraries:</strong> JWT, Mapbox, dnd-kit, chart.js
+            </p>
+        </td>
+        <td width="50%">
+            <p>
+                <strong>Stack:</strong> React, SASS, Express            
+            </p>
+            <p>
+                <strong>Other Libraries:</strong> Socket.io, Tippy
+            </p>
+        </td>
+    </tr>
+    <tr valign="top">
+        <td width="50%">
+            <p>
+                gattaGo is a dragonboat racing team builder with dashboard display, athlete management, lineup assignment, and race plan crafting features.            </p>
+        </td>
+        <td width="50%">
+            <p>
+                Squiggled is peer-to-peer whiteboarding web application allowing users to capture, annotate, send and download screenshots from their device camera.            </p>
+                </td>
+    </tr>
+</table>
 
 ### Skills 
 
@@ -41,8 +102,8 @@ When I'm not at the keyboard, find me cycling around, picking up weights and put
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ## 📊 GitHub Stats:
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kimcangho&theme=slateorange)
 <div align=center>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=kimcangho&theme=slateorange" alt="Github Streak" />
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kimcangho&theme=slateorange" alt="Github Activity" />
 </div>
 
