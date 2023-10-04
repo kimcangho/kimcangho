@@ -1,9 +1,20 @@
-# Hi, Kent here! 👋
+<h1 align="center"> Hi, Kent here! 🌊</h1>
+<p align="center">
+  <a style="text-decoration: none;" target="_blank" href="https://www.linkedin.com/in/kentkcho/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
-### About me 
+
 I am a mechanical engineer turned software engineer, and I'm all about honing a craft, achieving proficiency in said craft, and wielding it to tackle large obstacles and solve complex problems!
 
-When I'm not behind the keyboard, you can find me on the saddle of a road bike. I've only just started cycling as of this summer and it's been a wild ride! Also got a century ride under my belt, too! If not on a bike, you might find me inside my home gym (assembled during the pandemic for an amount too high for me to publicly disclose) or pitching in as a volunteer at a tech event!
+<div align="center">
+    <img src="/" alt="Bicycle Sunrise" height="300px" />
+    <img src="" alt="Maui Camper Van" height="300px" />
+    <img src="Iceland Camper Van" alt="Camper Van" height="300px" />
+</div>
+
+When I'm not at the keyboard, find me cycling around 🚴‍♂️💨, picking up weights and putting them down 🏋, or unleashing boardgame chaos 🖼🎲! If you still can't find me, I may be doing "field research" inside a camper van in the hopes of one day building my own 🏕🚐!
 
 ### Skills 
 
@@ -29,4 +40,9 @@ When I'm not behind the keyboard, you can find me on the saddle of a road bike. 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
+## 📊 GitHub Stats:
+<div align=center>
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kimcangho&theme=slateorange&hide_border=false&include_all_commits=true&count_private=true" alt="Github Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kimcangho&theme=slateorange&hide_border=false" alt="Github Streak" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kimcangho&theme=slateorange" alt="Github Activity" />
+</div>
