@@ -103,7 +103,7 @@ When I'm not at the keyboard, you can find me cycling around, picking up weights
 
 <h2 align="center">📊 Github Stats</h2>
 <div align=center>
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=kimcangho&theme=slateorange&hide_border=true" alt="Github Streak" />
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=kimcangho&theme=slateorange&hide_border=true" alt="GitHub Streak" /></a>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kimcangho&theme=slateorange" alt="Github Activity" />
 </div>
 
