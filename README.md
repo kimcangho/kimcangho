@@ -1,7 +1,10 @@
 <h1 align="center">🌊 Hi, Kent here!</h1>
 <p align="center">
-  <a style="text-decoration: none;" target="_blank" href="https://www.linkedin.com/in/kentkcho/" target="_blank">
+  <a style="text-decoration: none;" target="_blank" href="https://www.linkedin.com/in/kentkcho/"">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a style="text-decoration: none;" target="_blank" href="https://kimcangho.github.io/resume-technical/tech-resume.pdf">
+  <img src="https://img.shields.io/badge/Standard%20Resume-2A3FFB?logo=standardresume&logoColor=fff&style=for-the-badge" alt="Standard Resume">
   </a>
 </p>
 
