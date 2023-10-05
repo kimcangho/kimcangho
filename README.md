@@ -14,7 +14,7 @@ I am a mechanical engineer turned software engineer, and I'm all about honing a 
     <img src="iceland-camper-van.jpg" alt="Iceland Camper Van" height="300px" />
 </div>
 
-When I'm not at the keyboard, find me cycling around, picking up weights and putting them down, or unleashing boardgame chaos! If you still can't find me, I may be doing "field research" inside a camper van in the hopes of one day building my own!
+When I'm not at the keyboard, you can find me cycling around, picking up weights and putting them down, or unleashing boardgame chaos! If you still can't find me, I may be doing "field research" inside a camper van in the hopes of one day building my own!
 
 <h2 align="center">🏗 Projects</h2>
 
