@@ -6,7 +6,7 @@
   <a style="text-decoration: none;" target="_blank" href="https://kimcangho.github.io/resume-technical/tech-resume.pdf">
   <img src="https://img.shields.io/badge/Standard%20Resume-2A3FFB?logo=standardresume&logoColor=fff&style=for-the-badge" alt="Resume">
   </a>
-  <a style="text-decoration: none;" target="_blank" href="https://kimcangho.github.io/resume-technical/tech-resume.pdf">
+  <a style="text-decoration: none;" target="_blank" href="https://leetcode.com/kimcangho/">
   <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="Leetcode">
   </a>
 </p>
