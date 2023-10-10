@@ -1,11 +1,13 @@
-<style> 
-    a:link { 
-        text-decoration: none; 
-    } 
-    a:hover { 
-        text-decoration: none; 
-    } 
-</style> 
+<head>
+    <style> 
+        a:link { 
+            text-decoration: none; 
+        } 
+        a:hover { 
+            text-decoration: none; 
+        } 
+    </style> 
+</head>
 
 <h1 align="center">🌊 Hi, Kent here!</h1>
 <p align="center">
