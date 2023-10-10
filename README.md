@@ -1,15 +1,5 @@
-<head>
-    <style> 
-        a:link { 
-            text-decoration: none; 
-        } 
-        a:hover { 
-            text-decoration: none; 
-        } 
-    </style> 
-</head>
-
 <h1 align="center">🌊 Hi, Kent here!</h1>
+
 <p align="center">
   <a style="text-decoration: none;" target="_blank" href="https://www.linkedin.com/in/kentkcho/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
