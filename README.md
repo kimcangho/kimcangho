@@ -1,18 +1,26 @@
+<style> 
+    a:link { 
+        text-decoration: none; 
+    } 
+    a:hover { 
+        text-decoration: none; 
+    } 
+</style> 
+
 <h1 align="center">🌊 Hi, Kent here!</h1>
 <p align="center">
-  <a style="text-decoration: none;" target="_blank" href="https://www.linkedin.com/in/kentkcho/"">
+  <a style="text-decoration: none;" target="_blank" href="https://www.linkedin.com/in/kentkcho/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a style="text-decoration: none;" target="_blank" href="https://kimcangho.github.io/resume-technical/tech-resume.pdf">
-  <img src="https://img.shields.io/badge/Standard%20Resume-2A3FFB?logo=standardresume&logoColor=fff&style=for-the-badge" alt="Resume">
+    <img src="https://img.shields.io/badge/Standard%20Resume-2A3FFB?logo=standardresume&logoColor=fff&style=for-the-badge" alt="Resume">
   </a>
   <a style="text-decoration: none;" target="_blank" href="https://kent-kc-ho-portfolio.webflow.io/">
-  <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio">
   </a>
   <a style="text-decoration: none;" target="_blank" href="https://leetcode.com/kimcangho/">
-  <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="Leetcode">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="Leetcode">
   </a>
-  
 </p>
 
 
