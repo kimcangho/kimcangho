@@ -16,7 +16,7 @@
 </p>
 
 
-I am a mechanical engineer turned software engineer, and I'm all about honing a craft, achieving proficiency in said craft, and wielding it to tackle large obstacles and solve complex problems!
+I am a mechanical engineer turned software developer. I bring a product-minded, collaborative and top-down design philosophy to give back people's time!
 
 <h2 align="center">🧰 Skills</h2>
 
