@@ -67,9 +67,9 @@ I am a mechanical engineer turned software developer. I bring a product-minded, 
     <img src="iceland-camper-van.jpg" alt="Iceland Camper Van" height="300px" />
 </div>
 
-When I'm not at the keyboard, you can find me cycling around, picking up weights and putting them down, or unleashing trading card chaos! If you still can't find me, I may be doing "field research" inside a camper van in the hopes of one day building my own!
+When I'm not at the keyboard, you can find me cycling around or unleashing trading card chaos! If you still can't find me, I may be doing "field research" inside a camper van in the hopes of one day building my own!
 
-<h2 align="center">🏗 Projects</h2>
+<!-- <h2 align="center">💼 Experience</h2>
 
 <table bordercolor="#66b2b2" width="100%">
     <tr valign="top">
@@ -128,7 +128,68 @@ When I'm not at the keyboard, you can find me cycling around, picking up weights
                 Squiggled is peer-to-peer whiteboarding web application allowing users to capture, annotate, send and download screenshots from their device camera.            </p>
                 </td>
     </tr>
-</table>
+</table> -->
+
+<!-- <h2 align="center">🏗 Projects</h2>
+
+<table bordercolor="#66b2b2" width="100%">
+    <tr valign="top">
+        <td width="50%" align="center">
+            <h3>gattaGo</h3>
+        </td>
+        <td width="50%" align="center">
+            <h3>Squiggled</h3>
+        </td>
+    </tr>
+    <tr valign="center">
+        <td width="50%" align="center">
+            <img src="gattago.gif"/>
+        </td>
+        <td width="50%" align="center">
+            <img src="squiggled-screenshot.png"/>
+        </td>
+    </tr>
+    <tr valign="top">
+        <td width="50%" align="center">
+            <a href="https://github.com/kimcangho/gattaGo-client" target="_blank">
+                <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
+            </a> 
+        </td>
+        <td width="50%" align="center">
+            <a href="https://github.com/kimcangho/squiggled-client" target="_blank">
+                <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
+            </a>
+        </td>
+    </tr>
+    <tr valign="top">
+        <td width="50%">
+            <p>
+                <strong>Stack:</strong> Typescript, React, TailwindCSS, Express, Prisma, MySQL
+            </p>
+            <p>
+                <strong>Other Libraries:</strong> JWT, Mapbox, dnd-kit, chart.js
+            </p>
+        </td>
+        <td width="50%">
+            <p>
+                <strong>Stack:</strong> React, SASS, Express            
+            </p>
+            <p>
+                <strong>Other Libraries:</strong> Socket.io, Tippy
+            </p>
+        </td>
+    </tr>
+    <tr valign="top">
+        <td width="50%">
+            <p>
+                gattaGo is a dragonboat racing team builder with dashboard display, athlete management, lineup assignment, and race plan crafting features.            </p>
+        </td>
+        <td width="50%">
+            <p>
+                Squiggled is peer-to-peer whiteboarding web application allowing users to capture, annotate, send and download screenshots from their device camera.            </p>
+                </td>
+    </tr>
+</table> -->
 
 
 
