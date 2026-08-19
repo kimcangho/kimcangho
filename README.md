@@ -35,12 +35,10 @@ I am a mechanical engineer turned software engineer, and I'm all about honing a 
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-
-#### I'm exposed to:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 <h2 align="center">📊 Github Stats</h2>
 <div align=center>
@@ -55,7 +53,7 @@ I am a mechanical engineer turned software engineer, and I'm all about honing a 
     <img src="iceland-camper-van.jpg" alt="Iceland Camper Van" height="300px" />
 </div>
 
-When I'm not at the keyboard, you can find me cycling around, picking up weights and putting them down, or unleashing boardgame chaos! If you still can't find me, I may be doing "field research" inside a camper van in the hopes of one day building my own!
+When I'm not at the keyboard, you can find me cycling around, picking up weights and putting them down, or unleashing trading card chaos! If you still can't find me, I may be doing "field research" inside a camper van in the hopes of one day building my own!
 
 <h2 align="center">🏗 Projects</h2>
 
