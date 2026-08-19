@@ -57,7 +57,7 @@ I am a mechanical engineer turned software developer. I bring a product-minded, 
 <div align="center">
     <img src="bicycle-sunrise.jpg" alt="Bicycle Sunrise" height="300px" />
   <img src="maui-camper-van.jpg" alt="Maui Camper Van" height="300px" />
-    <img src="iceland-camper-van.jpg" alt="Iceland Camper Van" height="300px" />
+    <!-- <img src="iceland-camper-van.jpg" alt="Iceland Camper Van" height="300px" /> -->
 </div>
 
 When I'm not at the keyboard, you can find me cycling around or unleashing trading card chaos! If you still can't find me, I may be doing "field research" inside a camper van in the hopes of one day building my own!
