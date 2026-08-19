@@ -12,7 +12,7 @@
 
 I am a mechanical engineer turned software developer. I bring a product-minded, collaborative and top-down approach to full stack development. I'm driven to automate workflows and reduce operational overhead to give people back their time!
 
-<h2 align="center">🧰 Skills</h2>
+<h2>🧰 Skills</h2>
 
 #### My Tech Stack
 
@@ -53,13 +53,13 @@ I am a mechanical engineer turned software developer. I bring a product-minded, 
 ![Sentry](https://img.shields.io/badge/sentry-%23362D59.svg?style=for-the-badge&logo=sentry&logoColor=white)
 ![Rhinoceros](https://img.shields.io/badge/Rhinoceros-%23801010.svg?style=for-the-badge&logo=rhinoceros&logoColor=white)
 
-<h2 align="center">📊 Github Stats</h2>
+<h2>📊 Github Stats</h2>
 <div align=center>
   <!-- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=kimcangho&theme=slateorange&hide_border=true" alt="GitHub Streak" /></a> -->
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kimcangho&theme=slateorange" alt="Github Activity" />
 </div>
 
-<h2 align="center">ℹ️ About Me</h2>
+<h2>ℹ️ About Me</h2>
 <div align="center">
     <img src="bicycle-sunrise.jpg" alt="Bicycle Sunrise" height="300px" />
   <img src="maui-camper-van.jpg" alt="Maui Camper Van" height="300px" />
