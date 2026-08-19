@@ -48,7 +48,6 @@ I am a mechanical engineer turned software developer. I bring a product-minded, 
 ![Sentry](https://img.shields.io/badge/sentry-%23362D59.svg?style=for-the-badge&logo=sentry&logoColor=white)
 ![Rhinoceros](https://img.shields.io/badge/Rhinoceros-%23801010.svg?style=for-the-badge&logo=rhinoceros&logoColor=white)
 
-<h2>📊 Github Stats</h2>
 <div align=center>
   <!-- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=kimcangho&theme=slateorange&hide_border=true" alt="GitHub Streak" /></a> -->
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kimcangho&theme=slateorange" alt="Github Activity" />
