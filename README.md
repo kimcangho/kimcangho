@@ -10,7 +10,7 @@
 </p>
 
 
-I am a mechanical engineer turned software developer. I bring a product-minded, collaborative and top-down approach to automate workflows and reduce operational overhead and give people back their time!
+I am a mechanical engineer turned software developer. I bring a product-minded, collaborative and top-down approach to full stack development. I'm driven to automate workflows and reduce operational overhead to give people back their time!
 
 <h2 align="center">🧰 Skills</h2>
 
