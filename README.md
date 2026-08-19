@@ -42,11 +42,11 @@ I am a mechanical engineer turned software engineer, and I'm all about honing a 
 
 <h2 align="center">📊 Github Stats</h2>
 <div align=center>
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=kimcangho&theme=slateorange&hide_border=true" alt="GitHub Streak" /></a>
+  <!-- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=kimcangho&theme=slateorange&hide_border=true" alt="GitHub Streak" /></a> -->
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kimcangho&theme=slateorange" alt="Github Activity" />
 </div>
 
-#### More about me
+<h2 align="center">ℹ️ About Me</h2>
 <div align="center">
     <img src="bicycle-sunrise.jpg" alt="Bicycle Sunrise" height="300px" />
   <img src="maui-camper-van.jpg" alt="Maui Camper Van" height="300px" />
